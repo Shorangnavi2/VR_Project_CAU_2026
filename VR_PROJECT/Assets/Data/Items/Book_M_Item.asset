@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Book
   size: 1
-  category: 4
+  tags: []
