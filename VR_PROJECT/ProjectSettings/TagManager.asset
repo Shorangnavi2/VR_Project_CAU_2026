@@ -6,6 +6,7 @@ TagManager:
   tags:
   - HIDDEN
   - HiddenText
+  - GlassFilter
   layers:
   - Default
   - TransparentFX
